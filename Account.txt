@@ -1,0 +1,17 @@
+Account No : 12345
+Pin : 12345
+Balance : 100
+Account No : 23456
+Pin : 23456
+Balance : 200
+Account No : 34567
+Pin : 34567
+Balance : 300
+Updated Data : 
+Account No : 12345
+Pin : 12345
+Balance : 41
+Updated Data : 
+Account No : 12345
+Pin : 12345
+Balance : 41
